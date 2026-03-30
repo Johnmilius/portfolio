@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: John Milius's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# John Milius
+Computer Science Student, Data Engineering Minor, BYU-Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:Jwmilius@gmail.com">Jwmilius@gmail.com</a>
+| 714-318-8646
+| <a href="https://linkedin.com/in/johnmilius/">LinkedIn</a>
+| <a href="https://github.com/Johnmilius">GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Spring 2028`
+__Brigham Young University – Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Computer Science, Minor in Data Engineering
+- GPA: 4.0
 
 
+## Experience
 
-## Awards
+`Jul. 2025 - Jan. 2026`
+__Elevate Fulfillment__, Idaho Falls, ID — Warehouse Associate
 
-`2012`
-President, *Royal Society*, London, UK
+- Pick, pack, and fulfill high-volume customer orders accurately while meeting daily productivity targets in a fast-paced warehouse environment.
+- Operate forklifts and material handling equipment safely to transport, organize, and stage inventory, ensuring compliance with warehouse safety protocols.
+- Utilize ShipWise and internal fulfillment software to process shipments, update order status, and coordinate with cross-functional team members to achieve broader operational objectives.
 
-Associate, *French Academy of Science*, Paris, France
+`Dec. 2024 - Apr. 2025`
+__Matson CPA__, Los Alamitos, CA — Office Assistant
 
+- Organized and safeguarded confidential client tax documents, ensuring accurate filing practices and compliance with privacy standards.
+- Responded to client inquiries and phone calls with professional communication, directing requests and supporting office workflow efficiency.
 
+`Jun. 2022 - Jun. 2024`
+__The Church of Jesus Christ of Latter-day Saints__, Denver, CO — Volunteer
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Gained experience in cold-call techniques and interpersonal skills with a 70+ hour work week.
+- Provided effective, interactive training to large groups in over a dozen meetings.
+- Appointed as group leader; provided motivation and management of more than 16 representatives.
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+`Python, MySQL`
+__Warehouse Managing System__
 
-- Warden
-- Minted coins
+- Engineered automated shipment receipt processing system using Python XML parsing to handle incoming inventory, generating unique unit IDs and tracking shipment history through MySQL database with foreign key relationships.
+- Designed and implemented normalized relational database schema with 10+ tables managing products, locations, inventory units, and shipment tracking using MySQL Workbench; created migration scripts and seed data for warehouse configuration.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`React/JSX, Node.js, MySQL`
+__Social Networking Web App__
 
+- Collaborated with a team of four to develop a mobile-responsive web application enabling students to discover and connect with nearby peers and campus events.
+- Integrated front-end components with the backend database by implementing API endpoints in Node.js, dynamically loading user-specific data into React profile pages.
+- Ensured seamless data flow between the client and server by writing and testing SQL queries to support real-time profile updates.
+
+
+## Technical Skills
+
+Python, JavaScript, MySQL, C#, Git/GitHub, VS Code, JetBrains, Computer Hardware, Data Structures, Web Development, Databases, React/JSX, Node.js, Unit Tests
+
+
+## Additional Information
+
+- __Certifications:__ Red Cross CPR/AED Certified (Feb. 2025)
+- __Work Eligibility:__ Eligible to work for any U.S. Employer; open to relocation for internship opportunities.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
